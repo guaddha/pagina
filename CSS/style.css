@@ -62,6 +62,6 @@ body{
     top: 0;
     right: 0;
     width: 30%;
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    background-image: linear-gradient(to top, rgb(48, 207, 208) 0%, rgb(51, 8, 103) 100%);
     
 }
