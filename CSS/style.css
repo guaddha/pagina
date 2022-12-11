@@ -47,8 +47,7 @@ body{
     position: fixed;
     top: 30px;
     right: 30px;
-    /*Color al menu*/
-    background: rgb(141, 16, 16);
-    
-
+    background: rgb(255, 255, 255);
+    width: 40px;
+ 
 }
