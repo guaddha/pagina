@@ -35,5 +35,6 @@ body{
     text-align: center;
     padding: 0;
     height: 100%;
-   
+    display: flex;
+  
 }
