@@ -58,5 +58,6 @@ body{
 }
 
 .nave {
-  
+    position: fixed;
+ 
 }
