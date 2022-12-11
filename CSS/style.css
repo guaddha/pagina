@@ -18,4 +18,5 @@ body{
      /*Todo lo que se desborde se oculte*/
      overflow: hidden;
      margin: auto;
+     padding: 60px 0;
 }
