@@ -46,5 +46,6 @@ body{
     /*que este fijo en toda la pagina*/
     position: fixed;
     top: 30px;
- 
+    right: 30px;
+   
 }
