@@ -24,4 +24,6 @@ body{
 .header{
     /*Es decir que ocupe al 100% la pantalla*/
     height: 100vh;
+    background-image: linear-gradient(120deg, rgba(137, 246, 254, 0.555) 0%, rgba(102, 166, 255, 0.719) 100%), url(../img/chico.jpg);
+    
 }
