@@ -45,6 +45,6 @@ body{
 .menu {
     /*que este fijo en toda la pagina*/
     position: fixed;
-  
-    
+    top: 30px;
+ 
 }
