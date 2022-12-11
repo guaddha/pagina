@@ -17,4 +17,5 @@ body{
     max-width: 1200px;
      /*Todo lo que se desborde se oculte*/
      overflow: hidden;
+     margin: auto;
 }
