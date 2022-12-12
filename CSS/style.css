@@ -150,6 +150,8 @@ body{
 .img-galeria {
     object-fit: cover;
     width: 30%;
+    display: block;
+
 }
 
 
