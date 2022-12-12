@@ -257,7 +257,8 @@ footer{
 
 .footer-cont{
     display: flex;
-    
+    justify-content: space-between; /*todos los elemenos se pongan juntos pero en una esquina*/
+   
 }
 
 
