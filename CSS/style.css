@@ -33,7 +33,7 @@ body{
     margin: 0 auto;
     color: #fff;
     display: flex;
-    
+    align-items: center;
 }
 
 
