@@ -55,7 +55,11 @@ body{
     transition: transform .3s;
 }
 
+.nav__menu{
+}
 /*TERMINA LO NUEVO*/
+
+
 .header{
     /*Es decir que ocupe al 100% la pantalla*/
     height: 100vh;
