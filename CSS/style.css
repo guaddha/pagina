@@ -159,6 +159,7 @@ body{
 .imagenL {
     position: fixed;
     background: rgba(0, 0, 0, .6);
+    width: 100%;
     
 }
 
