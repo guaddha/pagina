@@ -47,7 +47,8 @@ body{
     left: 0;
     right: 0;
     width: 70%;
-
+    display: flex;
+   
 }
 
 /*TERMINA LO NUEVO*/
