@@ -57,7 +57,7 @@ body{
 
 .nav__menu{
     animation-name: escalar;
-    
+    animation-duration: .4s;
 }
 /*TERMINA LO NUEVO*/
 
