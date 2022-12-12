@@ -39,6 +39,8 @@ body{
 
 .nav__list{
     background-color: rgba(0, 0, 0, 0.909);
+    padding: 0;
+
    
 }
 
