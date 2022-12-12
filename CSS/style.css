@@ -51,7 +51,8 @@ body{
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-
+    transform: translateX(-100%);
+    
 }
 
 /*TERMINA LO NUEVO*/
