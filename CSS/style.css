@@ -101,4 +101,5 @@ body{
 
 .contenedor-servicio{
     display: flex;
+    justify-content: space-evenly;
 }
