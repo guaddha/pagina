@@ -32,6 +32,8 @@ body{
     width: 90%;
     margin: 0 auto;
     color: #fff;
+    display: flex;
+    
 }
 
 
