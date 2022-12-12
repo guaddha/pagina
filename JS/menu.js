@@ -1,1 +1,1 @@
-const iconoMenu = document
+const iconoMenu = document.querySelector('.nav__menu');
