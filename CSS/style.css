@@ -124,5 +124,7 @@ body{
     }
 
     .number {
-        
+        display: inline-block;
+    
+    
     }
