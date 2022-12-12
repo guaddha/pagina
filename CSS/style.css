@@ -100,5 +100,5 @@ body{
 }
 
 .contenedor-servicio{
-    
+    display: flex;
 }
