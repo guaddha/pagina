@@ -82,7 +82,7 @@ body{
 
 .nav__link{
     color: #fff;
-    
+    text-decoration: none;
 }
 
 /*TERMINA LO NUEVO*/
