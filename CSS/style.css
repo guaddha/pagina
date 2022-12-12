@@ -157,7 +157,8 @@ body{
 }
 
 .imagenL {
-   
+    position: fixed;
+    
 }
 
 
