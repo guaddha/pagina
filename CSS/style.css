@@ -58,6 +58,8 @@ body{
 .nav__menu{
     animation-name: escalar;
     animation-duration: .4s;
+    animation-iteration-count: infinite;
+    
 }
 /*TERMINA LO NUEVO*/
 
