@@ -280,6 +280,7 @@ footer{
 
 .redes-sociales {
     width: 50%;
+    display: flex;
 }
 
 
