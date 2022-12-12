@@ -225,7 +225,7 @@ body{
 .realizar{
     display: flex;
     justify-content: space-evenly; /*espacio equitativo entre ellos*/
-    
+    align-items: center; /*CENTRE VERTICALMENTE*/
 }
 
 
