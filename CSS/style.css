@@ -285,7 +285,8 @@ footer{
 }
 
 .redes-sociales-icono {
-   
+    display: inline-block;
+  
 }
 
 
