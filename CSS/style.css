@@ -223,7 +223,8 @@ body{
 
 /*LO QUE REALIZAMOS*/
 .realizar{
-   
+    display: flex;
+    
 }
 
 
