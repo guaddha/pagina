@@ -237,6 +237,7 @@ body{
 .cont-realizar img{
     width: 80%;
     display: block;
+    margin: auto;
 }
 
 
