@@ -125,6 +125,6 @@ body{
 
     .number {
         display: inline-block;
-    
-    
+        background-image: linear-gradient(to top, rgb(79, 204, 127) 0%, #f5d100 100%);
+        
     }
