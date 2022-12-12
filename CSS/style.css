@@ -182,6 +182,7 @@ body{
     transition: transform .3s .2s;
 }
 .showImage{
+    transform: scale(1);
 }
 
 
