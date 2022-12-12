@@ -224,7 +224,7 @@ body{
 /*LO QUE REALIZAMOS*/
 .realizar{
     display: flex;
-    
+    justify-content: space-evenly; /*espacio equitativo entre ellos*/
 }
 
 
