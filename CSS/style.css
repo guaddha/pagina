@@ -231,7 +231,7 @@ body{
 .cont-realizar{
     width: 30%;
     text-align: center; /*Se texto se centre*/
-   
+    margin-bottom: 20px;
 }
 
 
