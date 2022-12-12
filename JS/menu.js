@@ -1,1 +1,1 @@
-const iconoMenu 
+const iconoMenu = document
